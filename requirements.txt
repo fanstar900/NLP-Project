@@ -1,0 +1,7 @@
+# Versions used for the reported results (Google Colab, Python 3.13, T4 GPU).
+torch==2.11.0
+transformers==5.22.0
+scikit-learn==1.6.1
+numpy==2.4.6
+tqdm==4.67.3
+matplotlib==3.10.0

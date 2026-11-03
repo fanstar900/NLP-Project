@@ -1,0 +1,7 @@
+{
+  "task1_lid_test_accuracy": 0.8665016501650165,
+  "task1_lid_test_macro_f1": 0.8846478597195402,
+  "task1_val_macro_f1": 0.5589087955686365,
+  "task1_test_macro_f1": 0.5640637057959893,
+  "task1_test_accuracy": 0.5698051948051948
+}
